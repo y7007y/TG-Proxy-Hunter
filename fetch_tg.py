@@ -7,41 +7,47 @@ import datetime
 GITHUB_TOKEN = os.environ.get("GH_TOKEN")
 
 def search_github_tg():
-    # 搜索包含 Telegram 代理特征码的文件，按最新索引排序
+    # 增加更精准的搜索词，确保抓到的是最新的
     queries = [
         "tg://proxy?server=",
-        "t.me/proxy?server=",
-        "MTProxy secret="
+        "t.me/proxy?server="
     ]
     headers = {"Authorization": f"token {GITHUB_TOKEN}"} if GITHUB_TOKEN else {}
-    all_links = set()
+    all_links = [] # 改用列表以保持原始搜索顺序
 
     for q in queries:
-        url = f"https://api.github.com/search/code?q={q}&sort=indexed"
+        # 增加 sort=indexed 确保获取 GitHub 最新收录的代理
+        url = f"https://api.github.com/search/code?q={q}&sort=indexed&order=desc"
         try:
-            res = requests.get(url, headers=headers, timeout=10).json()
+            res = requests.get(url, headers=headers, timeout=15).json()
             for item in res.get('items', []):
                 raw_url = item['html_url'].replace("github.com", "raw.githubusercontent.com").replace("/blob/", "/")
                 content = requests.get(raw_url, timeout=5).text
-                # 正则匹配两种协议格式
+                # 匹配链接
                 links = re.findall(r'(tg://proxy\?server=[^\s"\'<>]+|https://t.me/proxy\?server=[^\s"\'<>]+)', content)
                 for link in links:
-                    # 统一转换为 tg:// 格式以便直接调用
-                    all_links.add(link.replace("https://t.me/proxy", "tg://proxy"))
+                    clean_link = link.replace("https://t.me/proxy", "tg://proxy")
+                    if clean_link not in all_links:
+                        all_links.append(clean_link)
         except Exception as e:
             print(f"搜索 {q} 时出错: {e}")
     
-    return sorted(list(all_links))
+    # 💥 核心修改：仅保留前 20 个最新抓取到的代理
+    return all_links[:20]
 
 def save_to_readme(proxies):
     now = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     with open("README.md", "w", encoding="utf-8") as f:
-        f.write(f"# ✈️ Telegram MTProto 自动订阅\n\n")
-        f.write(f"最后更新时间: `{now} (UTC)`\n\n")
-        f.write(f"### 🔗 实时代理列表 ({len(proxies)}个)\n\n")
-        f.write("> **提示**: 点击下方链接可直接在 Telegram 中启用代理。\n\n")
-        for p in proxies:
-            f.write(f"- {p}\n")
+        f.write(f"# ✈️ Telegram MTProto 订阅 (精选版)\n\n")
+        f.write(f"最后更新: `{now} (UTC)`\n\n")
+        f.write(f"### 🚀 今日优选代理 Top 20\n\n")
+        f.write("> **注**: Telegram 代理失效快，建议每 2 小时刷新本页获取最新节点。\n\n")
+        
+        if not proxies:
+            f.write("目前未抓取到有效链接，请稍后再试。\n")
+        else:
+            for i, p in enumerate(proxies, 1):
+                f.write(f"{i}. {p}\n")
 
 if __name__ == "__main__":
     proxy_list = search_github_tg()
