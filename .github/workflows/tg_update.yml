@@ -47,7 +47,5 @@ jobs:
           
           # 3. 核心修正：手动构建带 Token 的远程 URL 绕过鉴权
           # 注意：这里的 GH_TOKEN 必须是你 Secret 里的名字
-          REMOTE_URL="https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git"
-          
           git commit -m "Update TG Proxies $(date '+%Y-%m-%d %H:%M:%S')"
-          git push "$REMOTE_URL" HEAD:main --force
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main --force
