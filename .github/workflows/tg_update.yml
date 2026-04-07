@@ -5,6 +5,7 @@ on:
     - cron: '0 */2 * * *'
   workflow_dispatch:
 
+# 核心权限声明：明确告知 GitHub 允许此脚本写入内容
 permissions:
   contents: write
 
@@ -15,9 +16,8 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          # 使用你配置的 Secret，并关闭持久化认证以允许手动配置 URL
-          token: ${{ secrets.GH_TOKEN }}
-          persist-credentials: false 
+          # 使用系统内置的 GITHUB_TOKEN，无需手动创建 PAT
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -29,23 +29,24 @@ jobs:
 
       - name: Run Fetch Script
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} # 脚本内部也使用系统内置 Token
         run: python fetch_tg.py
 
       - name: Commit and Push
         run: |
-          # 1. 强制配置 Git 机器人身份
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          # 配置 Git 机器人身份
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # 2. 检查是否有文件变更，防止空提交报错
           git add .
+          
+          # 检查是否有更新，无更新则优雅退出
           if git diff --staged --quiet; then
-            echo "No changes found. Skipping push."
+            echo "No changes detected. Skipping commit."
             exit 0
           fi
           
-          # 3. 核心修正：手动构建带 Token 的远程 URL 绕过鉴权
-          # 注意：这里的 GH_TOKEN 必须是你 Secret 里的名字
           git commit -m "Update TG Proxies $(date '+%Y-%m-%d %H:%M:%S')"
-          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main --force
+          
+          # 使用内置的授权机制推送
+          git push origin HEAD:main
