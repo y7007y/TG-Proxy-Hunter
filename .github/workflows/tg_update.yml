@@ -2,29 +2,25 @@ name: TG Proxy Auto Hunter
 
 on:
   schedule:
-    - cron: '0 */2 * * *' # 每 2 小时运行一次
-  workflow_dispatch: # 支持手动触发
-
-# 强制使用 Node.js 24 环境以适配 2026 年的要求
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write  # 必须显式声明写入权限
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # 升级到支持 Node.js 24 的 v4 版本
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }} # 使用你设置的 PAT 确保拥有最高权限
 
-      # 升级到支持 Node.js 24 的 v5 版本
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11' # 使用更现代的 Python 版本
+          python-version: '3.11'
 
       - name: Install dependencies
         run: pip install requests
@@ -36,9 +32,13 @@ jobs:
 
       - name: Commit and Push
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add .
-          # 增加 pull --rebase 避免多人操作或并发冲突
-          git pull --rebase origin main
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update TG Proxies $(date)" && git push)
+          # 如果没有变化则跳过，防止 128 错误
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Update TG Proxies $(date)"
+          git push origin main
