@@ -1,8 +1,8 @@
 # ✈️ Telegram MTProto 自动补给站
 
-最后巡检: `2026-04-09 23:22:07 (北京时间)`
+最后巡检: `2026-04-10 01:06:50 (北京时间)`
 
-### ✅ 今日捕获到 16 个活跃节点
+### ✅ 今日捕获到 12 个活跃节点
 
 | 序号 | 操作 | 链接 (若点击失效请复制下方代码) |
 | :--- | :--- | :--- |
@@ -18,7 +18,3 @@
 | 10 | [⚡ 点击导入](https://t.me/proxy?server=proxydlyavseh.sbs&port=443&secret=2cf24dba5fb0a30e26e83b2ac5b9e29e) | `tg://proxy?server=proxydlyavseh.sbs&port=443&secret=2cf24dba5fb0a30e26e83b2ac5b9e29e` |
 | 11 | [⚡ 点击导入](https://t.me/proxy?server=49.12.117.37&port=443&secret=dd104462821249bd7ac519130220c25d09) | `tg://proxy?server=49.12.117.37&port=443&secret=dd104462821249bd7ac519130220c25d09` |
 | 12 | [⚡ 点击导入](https://t.me/proxy?server=176.57.220.4&port=8443&secret=ee79612e7275a2edb070dcd4a7e8778f) | `tg://proxy?server=176.57.220.4&port=8443&secret=ee79612e7275a2edb070dcd4a7e8778f` |
-| 13 | [⚡ 点击导入](https://t.me/proxy?server=109.120.180.194&port=443&secret=89eb10e2a1362ba63987cb8d627fb427) | `tg://proxy?server=109.120.180.194&port=443&secret=89eb10e2a1362ba63987cb8d627fb427` |
-| 14 | [⚡ 点击导入](https://t.me/proxy?server=tlg.shadeproxy.ru&port=443&secret=dd9c19f63098a0e4f32bb78cfd3c573373) | `tg://proxy?server=tlg.shadeproxy.ru&port=443&secret=dd9c19f63098a0e4f32bb78cfd3c573373` |
-| 15 | [⚡ 点击导入](https://t.me/proxy?server=82.208.21.114&port=443&secret=ee5bd447d48aa948351cd8c6a85f7a7507636c6f7564666c6172652e636f6d) | `tg://proxy?server=82.208.21.114&port=443&secret=ee5bd447d48aa948351cd8c6a85f7a7507636c6f7564666c6172652e636f6d` |
-| 16 | [⚡ 点击导入](https://t.me/proxy?server=155.133.27.89&port=443&secret=ee264b5129933b2201ed9750f4e6b46a5a636c6f7564666c6172652e636f6d) | `tg://proxy?server=155.133.27.89&port=443&secret=ee264b5129933b2201ed9750f4e6b46a5a636c6f7564666c6172652e636f6d` |
