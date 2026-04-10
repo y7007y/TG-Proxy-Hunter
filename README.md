@@ -1,8 +1,8 @@
 # ✈️ Telegram MTProto 自动补给站
 
-最后巡检: `2026-04-11 02:51:42 (北京时间)`
+最后巡检: `2026-04-11 04:35:36 (北京时间)`
 
-### ✅ 今日捕获到 16 个活跃节点
+### ✅ 今日捕获到 14 个活跃节点
 
 | 序号 | 操作 | 链接 (若点击失效请复制下方代码) |
 | :--- | :--- | :--- |
@@ -19,6 +19,4 @@
 | 11 | [⚡ 点击导入](https://t.me/proxy?server=taxt.techlibrary.ink&port=4501&secret=eeaf939bf55aac4eef8c4bee578bdc09f6626973636f7474692e79656b74616e65742e636f6d) | `tg://proxy?server=taxt.techlibrary.ink&port=4501&secret=eeaf939bf55aac4eef8c4bee578bdc09f6626973636f7474692e79656b74616e65742e636f6d` |
 | 12 | [⚡ 点击导入](https://t.me/proxy?server=95.111.234.216&port=443&secret=ee60a73d2bd48d89aafddde82a5a0c8178636c6f7564666c6172652e636f6d) | `tg://proxy?server=95.111.234.216&port=443&secret=ee60a73d2bd48d89aafddde82a5a0c8178636c6f7564666c6172652e636f6d` |
 | 13 | [⚡ 点击导入](https://t.me/proxy?server=95.111.255.227&port=443&secret=ee6bb8f5bbf4cab4ffee2c513c7271c58e636c6f7564666c6172652e636f6d) | `tg://proxy?server=95.111.255.227&port=443&secret=ee6bb8f5bbf4cab4ffee2c513c7271c58e636c6f7564666c6172652e636f6d` |
-| 14 | [⚡ 点击导入](https://t.me/proxy?server=194.163.159.151&port=443&secret=ee30be06dacdb12302ab0934640b778d8d636c6f7564666c6172652e636f6d) | `tg://proxy?server=194.163.159.151&port=443&secret=ee30be06dacdb12302ab0934640b778d8d636c6f7564666c6172652e636f6d` |
-| 15 | [⚡ 点击导入](https://t.me/proxy?server=194.163.137.37&port=443&secret=ee39e45164d090fe9f04b0271050d957c7636c6f7564666c6172652e636f6d) | `tg://proxy?server=194.163.137.37&port=443&secret=ee39e45164d090fe9f04b0271050d957c7636c6f7564666c6172652e636f6d` |
-| 16 | [⚡ 点击导入](https://t.me/proxy?server=proxytop.space&port=443&secret=eee3b0c44298fc1c149afbf4c8996fb92470726f7879746f702e7370616365) | `tg://proxy?server=proxytop.space&port=443&secret=eee3b0c44298fc1c149afbf4c8996fb92470726f7879746f702e7370616365` |
+| 14 | [⚡ 点击导入](https://t.me/proxy?server=proxytop.space&port=443&secret=eee3b0c44298fc1c149afbf4c8996fb92470726f7879746f702e7370616365) | `tg://proxy?server=proxytop.space&port=443&secret=eee3b0c44298fc1c149afbf4c8996fb92470726f7879746f702e7370616365` |
