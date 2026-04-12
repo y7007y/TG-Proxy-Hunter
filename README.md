@@ -1,26 +1,27 @@
 # ✈️ Telegram MTProto 自动补给站
 
-最后巡检: `2026-04-12 21:00:11 (北京时间)`
+最后巡检: `2026-04-12 22:38:30 (北京时间)`
 
-### ✅ 今日捕获到 18 个活跃节点
+### ✅ 今日捕获到 19 个活跃节点
 
 | 序号 | 操作 | 链接 (若点击失效请复制下方代码) |
 | :--- | :--- | :--- |
-| 1 | [⚡ 点击导入](https://t.me/proxy?server=194.163.143.211&port=443&secret=ee49c11be00962c867f93716b5825a387f636c6f7564666c6172652e636f6d) | `tg://proxy?server=194.163.143.211&port=443&secret=ee49c11be00962c867f93716b5825a387f636c6f7564666c6172652e636f6d` |
-| 2 | [⚡ 点击导入](https://t.me/proxy?server=194.163.135.91&port=443&secret=ee40a06fa63aa5282ca813445f2fed1eeb636c6f7564666c6172652e636f6d) | `tg://proxy?server=194.163.135.91&port=443&secret=ee40a06fa63aa5282ca813445f2fed1eeb636c6f7564666c6172652e636f6d` |
-| 3 | [⚡ 点击导入](https://t.me/proxy?server=mtprox.saursvepur.xyz&port=443&secret=ee000000000000000000000001000f000c7370622e6c656d616e6170726f2e7275) | `tg://proxy?server=mtprox.saursvepur.xyz&port=443&secret=ee000000000000000000000001000f000c7370622e6c656d616e6170726f2e7275` |
-| 4 | [⚡ 点击导入](https://t.me/proxy?server=31.58.76.4&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275) | `tg://proxy?server=31.58.76.4&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275` |
-| 5 | [⚡ 点击导入](https://t.me/proxy?server=217.60.36.37&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275) | `tg://proxy?server=217.60.36.37&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275` |
-| 6 | [⚡ 点击导入](https://t.me/proxy?server=2.27.63.122&port=443&secret=ee8ea45cc5f29a0e7464d88e9ff9c0e9fa72696a6b736f766572686569642e6e6c) | `tg://proxy?server=2.27.63.122&port=443&secret=ee8ea45cc5f29a0e7464d88e9ff9c0e9fa72696a6b736f766572686569642e6e6c` |
-| 7 | [⚡ 点击导入](https://t.me/proxy?server=194.163.128.208&port=443&secret=eeb5f3d79235638f620aa45da0bd1a07de636c6f7564666c6172652e636f6d) | `tg://proxy?server=194.163.128.208&port=443&secret=eeb5f3d79235638f620aa45da0bd1a07de636c6f7564666c6172652e636f6d` |
-| 8 | [⚡ 点击导入](https://t.me/proxy?server=178.18.248.188&port=443&secret=ee4bb5230f72689fed962d818fac46923f636c6f7564666c6172652e636f6d) | `tg://proxy?server=178.18.248.188&port=443&secret=ee4bb5230f72689fed962d818fac46923f636c6f7564666c6172652e636f6d` |
-| 9 | [⚡ 点击导入](https://t.me/proxy?server=217.60.36.233&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275) | `tg://proxy?server=217.60.36.233&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275` |
-| 10 | [⚡ 点击导入](https://t.me/proxy?server=91.132.142.236&port=443&secret=ee8f9386d30b11c72ac0b2225742c85694657870657269656e63652e74726970737465722e7275) | `tg://proxy?server=91.132.142.236&port=443&secret=ee8f9386d30b11c72ac0b2225742c85694657870657269656e63652e74726970737465722e7275` |
-| 11 | [⚡ 点击导入](https://t.me/proxy?server=31.59.103.64&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275) | `tg://proxy?server=31.59.103.64&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275` |
-| 12 | [⚡ 点击导入](https://t.me/proxy?server=45-15-128-185.sslip.io&port=332&secret=7tELwNoHJN9nF29zpdvxAE93d3cuZ29vZ2xlLmNvbQ) | `tg://proxy?server=45-15-128-185.sslip.io&port=332&secret=7tELwNoHJN9nF29zpdvxAE93d3cuZ29vZ2xlLmNvbQ` |
-| 13 | [⚡ 点击导入](https://t.me/proxy?server=exact.begoodtunnel.su&port=443&secret=eed802c58b0133cc8db3c6880bab5308c165786163742e6265676f6f6474756e6e656c2e7375) | `tg://proxy?server=exact.begoodtunnel.su&port=443&secret=eed802c58b0133cc8db3c6880bab5308c165786163742e6265676f6f6474756e6e656c2e7375` |
-| 14 | [⚡ 点击导入](https://t.me/proxy?server=192.144.15.229&port=443&secret=ee095b4c07061fa18ae9374091be8a8c4e79616e6465782e7275) | `tg://proxy?server=192.144.15.229&port=443&secret=ee095b4c07061fa18ae9374091be8a8c4e79616e6465782e7275` |
-| 15 | [⚡ 点击导入](https://t.me/proxy?server=185.167.99.166&port=443&secret=ee896b5f104d93915e87d4c1d6c1b748eb766b2e636f6d) | `tg://proxy?server=185.167.99.166&port=443&secret=ee896b5f104d93915e87d4c1d6c1b748eb766b2e636f6d` |
-| 16 | [⚡ 点击导入](https://t.me/proxy?server=tggo.store&port=443&secret=7uzWmAwONp7D1ujd83Bwkr50Z2dvLnN0b3Jl) | `tg://proxy?server=tggo.store&port=443&secret=7uzWmAwONp7D1ujd83Bwkr50Z2dvLnN0b3Jl` |
-| 17 | [⚡ 点击导入](https://t.me/proxy?server=sosalcraft.zapto.org&port=8443&secret=ddbc29fd4a9e787e07b7b1c93000f9d44a) | `tg://proxy?server=sosalcraft.zapto.org&port=8443&secret=ddbc29fd4a9e787e07b7b1c93000f9d44a` |
-| 18 | [⚡ 点击导入](https://t.me/proxy?server=83.228.246.77&port=443&secret=7qyvn1g6m2Qsh0OplMz2nLd2ay5jb20) | `tg://proxy?server=83.228.246.77&port=443&secret=7qyvn1g6m2Qsh0OplMz2nLd2ay5jb20` |
+| 1 | [⚡ 点击导入](https://t.me/proxy?server=194.163.171.96&port=443&secret=ee3d7bf0e971d77085537fb81feae0df01636c6f7564666c6172652e636f6d) | `tg://proxy?server=194.163.171.96&port=443&secret=ee3d7bf0e971d77085537fb81feae0df01636c6f7564666c6172652e636f6d` |
+| 2 | [⚡ 点击导入](https://t.me/proxy?server=194.163.166.32&port=443&secret=eef085ba54f0dfb78fcb714f653f0011f5636c6f7564666c6172652e636f6d) | `tg://proxy?server=194.163.166.32&port=443&secret=eef085ba54f0dfb78fcb714f653f0011f5636c6f7564666c6172652e636f6d` |
+| 3 | [⚡ 点击导入](https://t.me/proxy?server=mt.0xl1r.cfd&port=443&secret=a1f31ce5039ccb8331e906d5ab00a317) | `tg://proxy?server=mt.0xl1r.cfd&port=443&secret=a1f31ce5039ccb8331e906d5ab00a317` |
+| 4 | [⚡ 点击导入](https://t.me/proxy?server=194.163.143.211&port=443&secret=ee49c11be00962c867f93716b5825a387f636c6f7564666c6172652e636f6d) | `tg://proxy?server=194.163.143.211&port=443&secret=ee49c11be00962c867f93716b5825a387f636c6f7564666c6172652e636f6d` |
+| 5 | [⚡ 点击导入](https://t.me/proxy?server=194.163.135.91&port=443&secret=ee40a06fa63aa5282ca813445f2fed1eeb636c6f7564666c6172652e636f6d) | `tg://proxy?server=194.163.135.91&port=443&secret=ee40a06fa63aa5282ca813445f2fed1eeb636c6f7564666c6172652e636f6d` |
+| 6 | [⚡ 点击导入](https://t.me/proxy?server=mtprox.saursvepur.xyz&port=443&secret=ee000000000000000000000001000f000c7370622e6c656d616e6170726f2e7275) | `tg://proxy?server=mtprox.saursvepur.xyz&port=443&secret=ee000000000000000000000001000f000c7370622e6c656d616e6170726f2e7275` |
+| 7 | [⚡ 点击导入](https://t.me/proxy?server=31.58.76.4&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275) | `tg://proxy?server=31.58.76.4&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275` |
+| 8 | [⚡ 点击导入](https://t.me/proxy?server=217.60.36.37&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275) | `tg://proxy?server=217.60.36.37&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275` |
+| 9 | [⚡ 点击导入](https://t.me/proxy?server=2.27.63.122&port=443&secret=ee8ea45cc5f29a0e7464d88e9ff9c0e9fa72696a6b736f766572686569642e6e6c) | `tg://proxy?server=2.27.63.122&port=443&secret=ee8ea45cc5f29a0e7464d88e9ff9c0e9fa72696a6b736f766572686569642e6e6c` |
+| 10 | [⚡ 点击导入](https://t.me/proxy?server=194.163.128.208&port=443&secret=eeb5f3d79235638f620aa45da0bd1a07de636c6f7564666c6172652e636f6d) | `tg://proxy?server=194.163.128.208&port=443&secret=eeb5f3d79235638f620aa45da0bd1a07de636c6f7564666c6172652e636f6d` |
+| 11 | [⚡ 点击导入](https://t.me/proxy?server=178.18.248.188&port=443&secret=ee4bb5230f72689fed962d818fac46923f636c6f7564666c6172652e636f6d) | `tg://proxy?server=178.18.248.188&port=443&secret=ee4bb5230f72689fed962d818fac46923f636c6f7564666c6172652e636f6d` |
+| 12 | [⚡ 点击导入](https://t.me/proxy?server=217.60.36.233&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275) | `tg://proxy?server=217.60.36.233&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275` |
+| 13 | [⚡ 点击导入](https://t.me/proxy?server=91.132.142.236&port=443&secret=ee8f9386d30b11c72ac0b2225742c85694657870657269656e63652e74726970737465722e7275) | `tg://proxy?server=91.132.142.236&port=443&secret=ee8f9386d30b11c72ac0b2225742c85694657870657269656e63652e74726970737465722e7275` |
+| 14 | [⚡ 点击导入](https://t.me/proxy?server=31.59.103.64&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275) | `tg://proxy?server=31.59.103.64&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275` |
+| 15 | [⚡ 点击导入](https://t.me/proxy?server=45-15-128-185.sslip.io&port=332&secret=7tELwNoHJN9nF29zpdvxAE93d3cuZ29vZ2xlLmNvbQ) | `tg://proxy?server=45-15-128-185.sslip.io&port=332&secret=7tELwNoHJN9nF29zpdvxAE93d3cuZ29vZ2xlLmNvbQ` |
+| 16 | [⚡ 点击导入](https://t.me/proxy?server=exact.begoodtunnel.su&port=443&secret=eed802c58b0133cc8db3c6880bab5308c165786163742e6265676f6f6474756e6e656c2e7375) | `tg://proxy?server=exact.begoodtunnel.su&port=443&secret=eed802c58b0133cc8db3c6880bab5308c165786163742e6265676f6f6474756e6e656c2e7375` |
+| 17 | [⚡ 点击导入](https://t.me/proxy?server=192.144.15.229&port=443&secret=ee095b4c07061fa18ae9374091be8a8c4e79616e6465782e7275) | `tg://proxy?server=192.144.15.229&port=443&secret=ee095b4c07061fa18ae9374091be8a8c4e79616e6465782e7275` |
+| 18 | [⚡ 点击导入](https://t.me/proxy?server=185.167.99.166&port=443&secret=ee896b5f104d93915e87d4c1d6c1b748eb766b2e636f6d) | `tg://proxy?server=185.167.99.166&port=443&secret=ee896b5f104d93915e87d4c1d6c1b748eb766b2e636f6d` |
+| 19 | [⚡ 点击导入](https://t.me/proxy?server=tggo.store&port=443&secret=7uzWmAwONp7D1ujd83Bwkr50Z2dvLnN0b3Jl) | `tg://proxy?server=tggo.store&port=443&secret=7uzWmAwONp7D1ujd83Bwkr50Z2dvLnN0b3Jl` |
