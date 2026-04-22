@@ -1,8 +1,8 @@
 # ✈️ Telegram MTProto 自动补给站
 
-最后巡检: `2026-04-22 13:59:06 (北京时间)`
+最后巡检: `2026-04-22 16:02:18 (北京时间)`
 
-### ✅ 今日捕获到 11 个活跃节点
+### ✅ 今日捕获到 8 个活跃节点
 
 | 序号 | 操作 | 链接 (若点击失效请复制下方代码) |
 | :--- | :--- | :--- |
@@ -14,6 +14,3 @@
 | 6 | [⚡ 点击导入](https://t.me/proxy?server=173.249.42.146&port=443&secret=ee9c358bfbf24551ff7bb4a7f2c33bc298636c6f7564666c6172652e636f6d) | `tg://proxy?server=173.249.42.146&port=443&secret=ee9c358bfbf24551ff7bb4a7f2c33bc298636c6f7564666c6172652e636f6d` |
 | 7 | [⚡ 点击导入](https://t.me/proxy?server=tgp.hidara.me&port=7443&secret=ee6319c32d2a1751dbb48d8caae6b2d3bd7467702e6869646172612e6d65) | `tg://proxy?server=tgp.hidara.me&port=7443&secret=ee6319c32d2a1751dbb48d8caae6b2d3bd7467702e6869646172612e6d65` |
 | 8 | [⚡ 点击导入](https://t.me/proxy?server=188.137.242.226&port=443&secret=dd63ddf70c2fa66dfa8a66e5c244d02c13) | `tg://proxy?server=188.137.242.226&port=443&secret=dd63ddf70c2fa66dfa8a66e5c244d02c13` |
-| 9 | [⚡ 点击导入](https://t.me/proxy?server=super.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275) | `tg://proxy?server=super.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275` |
-| 10 | [⚡ 点击导入](https://t.me/proxy?server=194.163.162.140&port=443&secret=ee77365696b6b2bcdbdb3f07241d46f6c3636c6f7564666c6172652e636f6d) | `tg://proxy?server=194.163.162.140&port=443&secret=ee77365696b6b2bcdbdb3f07241d46f6c3636c6f7564666c6172652e636f6d` |
-| 11 | [⚡ 点击导入](https://t.me/proxy?server=144.91.103.128&port=443&secret=eeaa903e37383f45634680557033e5bd71636c6f7564666c6172652e636f6d) | `tg://proxy?server=144.91.103.128&port=443&secret=eeaa903e37383f45634680557033e5bd71636c6f7564666c6172652e636f6d` |
