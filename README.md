@@ -1,8 +1,8 @@
 # ✈️ Telegram MTProto 自动补给站
 
-最后巡检: `2026-04-24 21:22:23 (北京时间)`
+最后巡检: `2026-04-24 23:07:17 (北京时间)`
 
-### ✅ 今日捕获到 13 个活跃节点
+### ✅ 今日捕获到 11 个活跃节点
 
 | 序号 | 操作 | 链接 (若点击失效请复制下方代码) |
 | :--- | :--- | :--- |
@@ -17,5 +17,3 @@
 | 9 | [⚡ 点击导入](https://t.me/proxy?server=194.163.172.1&port=443&secret=ee189fa055d3d1084838047fd37a0f4547636c6f7564666c6172652e636f6d) | `tg://proxy?server=194.163.172.1&port=443&secret=ee189fa055d3d1084838047fd37a0f4547636c6f7564666c6172652e636f6d` |
 | 10 | [⚡ 点击导入](https://t.me/proxy?server=iloveasians.club&port=443&secret=ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275) | `tg://proxy?server=iloveasians.club&port=443&secret=ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275` |
 | 11 | [⚡ 点击导入](https://t.me/proxy?server=154.83.149.244&port=443&secret=ee1f508bc70833410039510389263624f379616e6465782e7472) | `tg://proxy?server=154.83.149.244&port=443&secret=ee1f508bc70833410039510389263624f379616e6465782e7472` |
-| 12 | [⚡ 点击导入](https://t.me/proxy?server=alo.axelotyl.fun&port=12443&secret=ee72756e2e6178656c6f74796c2e6675) | `tg://proxy?server=alo.axelotyl.fun&port=12443&secret=ee72756e2e6178656c6f74796c2e6675` |
-| 13 | [⚡ 点击导入](https://t.me/proxy?server=93.77.164.219&port=443&secret=7f3b2e9a5c8146d09a2f8b4e1d6c3a77) | `tg://proxy?server=93.77.164.219&port=443&secret=7f3b2e9a5c8146d09a2f8b4e1d6c3a77` |
