@@ -1,8 +1,8 @@
 # ✈️ Telegram MTProto 自动补给站
 
-最后巡检: `2026-04-27 02:53:51 (北京时间)`
+最后巡检: `2026-04-27 04:37:22 (北京时间)`
 
-### ✅ 今日捕获到 18 个活跃节点
+### ✅ 今日捕获到 13 个活跃节点
 
 | 序号 | 操作 | 链接 (若点击失效请复制下方代码) |
 | :--- | :--- | :--- |
@@ -19,8 +19,3 @@
 | 11 | [⚡ 点击导入](https://t.me/proxy?server=94.232.245.189&port=443&secret=ee973b9a106be8b489adae6481534990ec54656c6567726161662e6e6c) | `tg://proxy?server=94.232.245.189&port=443&secret=ee973b9a106be8b489adae6481534990ec54656c6567726161662e6e6c` |
 | 12 | [⚡ 点击导入](https://t.me/proxy?server=45.83.21.91&port=443&secret=ee9bb07d0ddb2102f54f9575d3aceafc455669736c616e6469692e636f6d) | `tg://proxy?server=45.83.21.91&port=443&secret=ee9bb07d0ddb2102f54f9575d3aceafc455669736c616e6469692e636f6d` |
 | 13 | [⚡ 点击导入](https://t.me/proxy?server=158.220.96.243&port=443&secret=ee602404acdf5669aedf205691a613befd636c6f7564666c6172652e636f6d) | `tg://proxy?server=158.220.96.243&port=443&secret=ee602404acdf5669aedf205691a613befd636c6f7564666c6172652e636f6d` |
-| 14 | [⚡ 点击导入](https://t.me/proxy?server=bella-cook.com&port=443&secret=ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275) | `tg://proxy?server=bella-cook.com&port=443&secret=ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275` |
-| 15 | [⚡ 点击导入](https://t.me/proxy?server=144.91.81.42&port=443&secret=eebd5c2d3910f5c0feddc71a71a0c417a8636c6f7564666c6172652e636f6d) | `tg://proxy?server=144.91.81.42&port=443&secret=eebd5c2d3910f5c0feddc71a71a0c417a8636c6f7564666c6172652e636f6d` |
-| 16 | [⚡ 点击导入](https://t.me/proxy?server=167.86.111.159&port=443&secret=eeec8d3ef2887f4d4236dbf1dd176ac144636c6f7564666c6172652e636f6d) | `tg://proxy?server=167.86.111.159&port=443&secret=eeec8d3ef2887f4d4236dbf1dd176ac144636c6f7564666c6172652e636f6d` |
-| 17 | [⚡ 点击导入](https://t.me/proxy?server=tg.postpulse.space&port=13443&secret=7p2RddSbDvtYNWcQUaDBbzNwZXRyb3ZpY2gucnU) | `tg://proxy?server=tg.postpulse.space&port=13443&secret=7p2RddSbDvtYNWcQUaDBbzNwZXRyb3ZpY2gucnU` |
-| 18 | [⚡ 点击导入](https://t.me/proxy?server=85.193.83.136&port=443&secret=ee6fc160dcdaf0329e7a34b24bf7c0224e7777772e6d6963726f736f66742e636f6d) | `tg://proxy?server=85.193.83.136&port=443&secret=ee6fc160dcdaf0329e7a34b24bf7c0224e7777772e6d6963726f736f66742e636f6d` |
