@@ -1,8 +1,8 @@
 # ✈️ Telegram MTProto 自动补给站
 
-最后巡检: `2026-04-27 23:47:36 (北京时间)`
+最后巡检: `2026-04-28 01:21:28 (北京时间)`
 
-### ✅ 今日捕获到 16 个活跃节点
+### ✅ 今日捕获到 15 个活跃节点
 
 | 序号 | 操作 | 链接 (若点击失效请复制下方代码) |
 | :--- | :--- | :--- |
@@ -21,4 +21,3 @@
 | 13 | [⚡ 点击导入](https://t.me/proxy?server=proxysb.xyz&port=443&secret=eef7ca86268af768135f9ca41f89e9efb670726f787973622e78797a) | `tg://proxy?server=proxysb.xyz&port=443&secret=eef7ca86268af768135f9ca41f89e9efb670726f787973622e78797a` |
 | 14 | [⚡ 点击导入](https://t.me/proxy?server=hotmoms.today&port=443&secret=7iXLuSy) | `tg://proxy?server=hotmoms.today&port=443&secret=7iXLuSy` |
 | 15 | [⚡ 点击导入](https://t.me/proxy?server=178.104.244.158&port=8080&secret=dd104462821249bd7ac519130220c25d09) | `tg://proxy?server=178.104.244.158&port=8080&secret=dd104462821249bd7ac519130220c25d09` |
-| 16 | [⚡ 点击导入](https://t.me/proxy?server=213.226.127.61&port=443&secret=eec8f164f338f20e2e3c7a0f4e0408a51270726f787974672e666974) | `tg://proxy?server=213.226.127.61&port=443&secret=eec8f164f338f20e2e3c7a0f4e0408a51270726f787974672e666974` |
