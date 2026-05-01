@@ -1,8 +1,8 @@
 # ✈️ Telegram MTProto 自动补给站
 
-最后巡检: `2026-05-01 10:56:19 (北京时间)`
+最后巡检: `2026-05-01 14:35:22 (北京时间)`
 
-### ✅ 今日捕获到 13 个活跃节点
+### ✅ 今日捕获到 12 个活跃节点
 
 | 序号 | 操作 | 链接 (若点击失效请复制下方代码) |
 | :--- | :--- | :--- |
@@ -18,4 +18,3 @@
 | 10 | [⚡ 点击导入](https://t.me/proxy?server=2.27.41.207&port=443&secret=ee2ee6f669be449c3172b4cdfef0aac41b7265706c61796579652e636f6d) | `tg://proxy?server=2.27.41.207&port=443&secret=ee2ee6f669be449c3172b4cdfef0aac41b7265706c61796579652e636f6d` |
 | 11 | [⚡ 点击导入](https://t.me/proxy?server=swekitty.grittytarantula.sbs&port=443&secret=ee279f27349c60d8489533dc8ac8e10b7c7377656b697474792e677269747479746172616e74756c612e736273) | `tg://proxy?server=swekitty.grittytarantula.sbs&port=443&secret=ee279f27349c60d8489533dc8ac8e10b7c7377656b697474792e677269747479746172616e74756c612e736273` |
 | 12 | [⚡ 点击导入](https://t.me/proxy?server=proxy.nolags.pw&port=443&secret=dd9411663f21ef21068e2887332a4f6752) | `tg://proxy?server=proxy.nolags.pw&port=443&secret=dd9411663f21ef21068e2887332a4f6752` |
-| 13 | [⚡ 点击导入](https://t.me/proxy?server=193.168.197.171&port=8443&secret=dd32458d6fbe53aead4a2ffaac598fa331) | `tg://proxy?server=193.168.197.171&port=8443&secret=dd32458d6fbe53aead4a2ffaac598fa331` |
