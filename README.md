@@ -1,8 +1,8 @@
 # ✈️ Telegram MTProto 自动补给站
 
-最后巡检: `2026-05-06 01:22:52 (北京时间)`
+最后巡检: `2026-05-06 03:18:04 (北京时间)`
 
-### ✅ 今日捕获到 13 个活跃节点
+### ✅ 今日捕获到 11 个活跃节点
 
 | 序号 | 操作 | 链接 (若点击失效请复制下方代码) |
 | :--- | :--- | :--- |
@@ -17,5 +17,3 @@
 | 9 | [⚡ 点击导入](https://t.me/proxy?server=mtproto.wemakecode.ru&port=6443&secret=e569c9792f984167ea08d493735fe342) | `tg://proxy?server=mtproto.wemakecode.ru&port=6443&secret=e569c9792f984167ea08d493735fe342` |
 | 10 | [⚡ 点击导入](https://t.me/proxy?server=5.230.201.129&port=443&secret=ee03391d9e585b20ee18f588274347c2ff7777772e6d6963726f736f66742e636f6d) | `tg://proxy?server=5.230.201.129&port=443&secret=ee03391d9e585b20ee18f588274347c2ff7777772e6d6963726f736f66742e636f6d` |
 | 11 | [⚡ 点击导入](https://t.me/proxy?server=193.23.199.57&port=443&secret=ee03391d9e585b20ee18f588274347c2ff7777772e6d6963726f736f66742e636f6d) | `tg://proxy?server=193.23.199.57&port=443&secret=ee03391d9e585b20ee18f588274347c2ff7777772e6d6963726f736f66742e636f6d` |
-| 12 | [⚡ 点击导入](https://t.me/proxy?server=130.49.218.57&port=443&secret=ee8aa50573bd2e964427df682f93935ce4646c2e676f6f676c652e636f6d) | `tg://proxy?server=130.49.218.57&port=443&secret=ee8aa50573bd2e964427df682f93935ce4646c2e676f6f676c652e636f6d` |
-| 13 | [⚡ 点击导入](https://t.me/proxy?server=193.23.199.16&port=8443&secret=eed942e15d1c4f6a22a8c8fc1d631f6eb9646c2e676f6f676c652e636f6d) | `tg://proxy?server=193.23.199.16&port=8443&secret=eed942e15d1c4f6a22a8c8fc1d631f6eb9646c2e676f6f676c652e636f6d` |
