@@ -1,8 +1,8 @@
 # ✈️ Telegram MTProto 自动补给站
 
-最后巡检: `2026-05-14 01:59:53 (北京时间)`
+最后巡检: `2026-05-14 04:05:19 (北京时间)`
 
-### ✅ 今日捕获到 8 个活跃节点
+### ✅ 今日捕获到 7 个活跃节点
 
 | 序号 | 操作 | 链接 (若点击失效请复制下方代码) |
 | :--- | :--- | :--- |
@@ -13,4 +13,3 @@
 | 5 | [⚡ 点击导入](https://t.me/proxy?server=proxy.chunkycorp.shop&port=443&secret=3a3365be03d6bc13518d65e70a3146c2) | `tg://proxy?server=proxy.chunkycorp.shop&port=443&secret=3a3365be03d6bc13518d65e70a3146c2` |
 | 6 | [⚡ 点击导入](https://t.me/proxy?server=alo.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d) | `tg://proxy?server=alo.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d` |
 | 7 | [⚡ 点击导入](https://t.me/proxy?server=peyk.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d) | `tg://proxy?server=peyk.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d` |
-| 8 | [⚡ 点击导入](https://t.me/proxy?server=tg1.tgproxy1.fun&port=8443&secret=ee9f275776f928838953db9dc7c5629ef27467312e746770726f7879312e66756e) | `tg://proxy?server=tg1.tgproxy1.fun&port=8443&secret=ee9f275776f928838953db9dc7c5629ef27467312e746770726f7879312e66756e` |
