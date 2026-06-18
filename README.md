@@ -1,8 +1,8 @@
 # ✈️ Telegram MTProto 自动补给站
 
-最后巡检: `2026-06-19 00:55:28 (北京时间)`
+最后巡检: `2026-06-19 04:23:55 (北京时间)`
 
-### ✅ 今日捕获到 14 个活跃节点
+### ✅ 今日捕获到 12 个活跃节点
 
 | 序号 | 操作 | 链接 (若点击失效请复制下方代码) |
 | :--- | :--- | :--- |
@@ -18,5 +18,3 @@
 | 10 | [⚡ 点击导入](https://t.me/proxy?server=2.26.124.102&port=443&secret=ee6d6963726f736f66742e636f6dd95c) | `tg://proxy?server=2.26.124.102&port=443&secret=ee6d6963726f736f66742e636f6dd95c` |
 | 11 | [⚡ 点击导入](https://t.me/proxy?server=2.26.124.108&port=443&secret=ee6d6963726f736f66742e636f6dd95c) | `tg://proxy?server=2.26.124.108&port=443&secret=ee6d6963726f736f66742e636f6dd95c` |
 | 12 | [⚡ 点击导入](https://t.me/proxy?server=150.241.68.96&port=443&secret=ee6d6963726f736f66742e636f6dd95c) | `tg://proxy?server=150.241.68.96&port=443&secret=ee6d6963726f736f66742e636f6dd95c` |
-| 13 | [⚡ 点击导入](https://t.me/proxy?server=ihkljklk.etherealvpn.uk&port=443&secret=eebfee6bc937ce40159186de7ece967a95617669746f2e7275) | `tg://proxy?server=ihkljklk.etherealvpn.uk&port=443&secret=eebfee6bc937ce40159186de7ece967a95617669746f2e7275` |
-| 14 | [⚡ 点击导入](https://t.me/proxy?server=51.250.82.6&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) | `tg://proxy?server=51.250.82.6&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275` |
