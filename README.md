@@ -1,9 +1,6 @@
 # ✈️ Telegram MTProto 自动补给站
 
-最后巡检: `2026-06-21 17:47:57 (北京时间)`
+最后巡检: `2026-06-21 20:09:25 (北京时间)`
 
-### ✅ 今日捕获到 1 个活跃节点
-
-| 序号 | 操作 | 链接 (若点击失效请复制下方代码) |
-| :--- | :--- | :--- |
-| 1 | [⚡ 点击导入](https://t.me/proxy?server=back.nolags.pw&port=443&secret=dd23930f2da14e8bad3dcf4620e9db128b) | `tg://proxy?server=back.nolags.pw&port=443&secret=dd23930f2da14e8bad3dcf4620e9db128b` |
+### ❌ 状态：全线链路阻断
+当前 GitHub Actions 节点无法访问 Telegram 镜像，请尝试手动运行一次。
