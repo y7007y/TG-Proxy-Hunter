@@ -1,8 +1,8 @@
 # ✈️ Telegram MTProto 自动补给站
 
-最后巡检: `2026-06-27 01:46:24 (北京时间)`
+最后巡检: `2026-06-27 03:44:57 (北京时间)`
 
-### ✅ 今日捕获到 11 个活跃节点
+### ✅ 今日捕获到 8 个活跃节点
 
 | 序号 | 操作 | 链接 (若点击失效请复制下方代码) |
 | :--- | :--- | :--- |
@@ -14,6 +14,3 @@
 | 6 | [⚡ 点击导入](https://t.me/proxy?server=s2.v6n.tech&port=443&secret=ee192e048bfc34b71e27a801fdd15340af7777772e77702e706c) | `tg://proxy?server=s2.v6n.tech&port=443&secret=ee192e048bfc34b71e27a801fdd15340af7777772e77702e706c` |
 | 7 | [⚡ 点击导入](https://t.me/proxy?server=s1.v6n.tech&port=443&secret=eee11484d2c8b928f3d5a19f5da8e182037777772e696465616c6f2e6465) | `tg://proxy?server=s1.v6n.tech&port=443&secret=eee11484d2c8b928f3d5a19f5da8e182037777772e696465616c6f2e6465` |
 | 8 | [⚡ 点击导入](https://t.me/proxy?server=34.90.36.238&port=443&secret=ddeec806d5ceb6ebe2fe47e212f982fe64) | `tg://proxy?server=34.90.36.238&port=443&secret=ddeec806d5ceb6ebe2fe47e212f982fe64` |
-| 9 | [⚡ 点击导入](https://t.me/proxy?server=proxy8.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) | `tg://proxy?server=proxy8.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275` |
-| 10 | [⚡ 点击导入](https://t.me/proxy?server=87.58.201.74&port=853&secret=ee6aa9eb2bd47d97b43be8ac203cfd3c0e7777772e676f6f676c652e636f6d) | `tg://proxy?server=87.58.201.74&port=853&secret=ee6aa9eb2bd47d97b43be8ac203cfd3c0e7777772e676f6f676c652e636f6d` |
-| 11 | [⚡ 点击导入](https://t.me/proxy?server=31.76.251.25&port=853&secret=ee6aa9eb2bd47d97b43be8ac203cfd3c0e7777772e676f6f676c652e636f6d) | `tg://proxy?server=31.76.251.25&port=853&secret=ee6aa9eb2bd47d97b43be8ac203cfd3c0e7777772e676f6f676c652e636f6d` |
