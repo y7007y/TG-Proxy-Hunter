@@ -1,11 +1,10 @@
 # ✈️ Telegram MTProto 自动补给站
 
-最后巡检: `2026-07-04 10:47:21 (北京时间)`
+最后巡检: `2026-07-04 14:45:39 (北京时间)`
 
-### ✅ 今日捕获到 3 个活跃节点
+### ✅ 今日捕获到 2 个活跃节点
 
 | 序号 | 操作 | 链接 (若点击失效请复制下方代码) |
 | :--- | :--- | :--- |
 | 1 | [⚡ 点击导入](https://t.me/proxy?server=136.114.113.9&port=443&secret=dd3c7a20cedbc9c2aa0b8ef04935f1d193) | `tg://proxy?server=136.114.113.9&port=443&secret=dd3c7a20cedbc9c2aa0b8ef04935f1d193` |
 | 2 | [⚡ 点击导入](https://t.me/proxy?server=proxy28.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) | `tg://proxy?server=proxy28.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275` |
-| 3 | [⚡ 点击导入](https://t.me/proxy?server=31.76.94.172&port=443&secret=8f3c7a1d4b92e6c51a7d0fb843c2e91f) | `tg://proxy?server=31.76.94.172&port=443&secret=8f3c7a1d4b92e6c51a7d0fb843c2e91f` |
