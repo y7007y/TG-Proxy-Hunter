@@ -1,8 +1,8 @@
 # ✈️ Telegram MTProto 自动补给站
 
-最后巡检: `2026-07-08 04:04:14 (北京时间)`
+最后巡检: `2026-07-08 06:59:33 (北京时间)`
 
-### ✅ 今日捕获到 7 个活跃节点
+### ✅ 今日捕获到 6 个活跃节点
 
 | 序号 | 操作 | 链接 (若点击失效请复制下方代码) |
 | :--- | :--- | :--- |
@@ -12,4 +12,3 @@
 | 4 | [⚡ 点击导入](https://t.me/proxy?server=syzygy.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) | `tg://proxy?server=syzygy.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275` |
 | 5 | [⚡ 点击导入](https://t.me/proxy?server=34.6.122.236&port=443&secret=dd5ce750c0f6787b81051bc5da67626b0d) | `tg://proxy?server=34.6.122.236&port=443&secret=dd5ce750c0f6787b81051bc5da67626b0d` |
 | 6 | [⚡ 点击导入](https://t.me/proxy?server=aerie.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) | `tg://proxy?server=aerie.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275` |
-| 7 | [⚡ 点击导入](https://t.me/proxy?server=skein.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) | `tg://proxy?server=skein.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275` |
