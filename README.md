@@ -1,8 +1,8 @@
 # ✈️ Telegram MTProto 自动补给站
 
-最后巡检: `2026-07-11 01:46:24 (北京时间)`
+最后巡检: `2026-07-11 03:25:06 (北京时间)`
 
-### ✅ 今日捕获到 12 个活跃节点
+### ✅ 今日捕获到 10 个活跃节点
 
 | 序号 | 操作 | 链接 (若点击失效请复制下方代码) |
 | :--- | :--- | :--- |
@@ -16,5 +16,3 @@
 | 8 | [⚡ 点击导入](https://t.me/proxy?server=phloe.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) | `tg://proxy?server=phloe.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275` |
 | 9 | [⚡ 点击导入](https://t.me/proxy?server=slime.waycdn.ru&port=443&secret=8f3c7a1d4b92e6c51a7d0fb843c2e91f) | `tg://proxy?server=slime.waycdn.ru&port=443&secret=8f3c7a1d4b92e6c51a7d0fb843c2e91f` |
 | 10 | [⚡ 点击导入](https://t.me/proxy?server=eerie.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) | `tg://proxy?server=eerie.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275` |
-| 11 | [⚡ 点击导入](https://t.me/proxy?server=sisu.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) | `tg://proxy?server=sisu.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275` |
-| 12 | [⚡ 点击导入](https://t.me/proxy?server=coffee.chunkystars.ru&port=443&secret=8f3c7a1d4b92e6c51a7d0fb843c2e91f) | `tg://proxy?server=coffee.chunkystars.ru&port=443&secret=8f3c7a1d4b92e6c51a7d0fb843c2e91f` |
