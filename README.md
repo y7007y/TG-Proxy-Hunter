@@ -1,8 +1,8 @@
 # ✈️ Telegram MTProto 自动补给站
 
-最后巡检: `2026-07-29 10:30:25 (北京时间)`
+最后巡检: `2026-07-29 14:28:57 (北京时间)`
 
-### ✅ 今日捕获到 12 个活跃节点
+### ✅ 今日捕获到 10 个活跃节点
 
 | 序号 | 操作 | 链接 (若点击失效请复制下方代码) |
 | :--- | :--- | :--- |
@@ -16,5 +16,3 @@
 | 8 | [⚡ 点击导入](https://t.me/proxy?server=julyy.nolags.pw&port=443&secret=dddb2f3df5d8f4fb7aa8e2192eff0aae98) | `tg://proxy?server=julyy.nolags.pw&port=443&secret=dddb2f3df5d8f4fb7aa8e2192eff0aae98` |
 | 9 | [⚡ 点击导入](https://t.me/proxy?server=syzygy.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) | `tg://proxy?server=syzygy.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275` |
 | 10 | [⚡ 点击导入](https://t.me/proxy?server=skein.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) | `tg://proxy?server=skein.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275` |
-| 11 | [⚡ 点击导入](https://t.me/proxy?server=aerie.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) | `tg://proxy?server=aerie.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275` |
-| 12 | [⚡ 点击导入](https://t.me/proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275) | `tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275` |
