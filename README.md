@@ -1,8 +1,8 @@
 # ✈️ Telegram MTProto 自动补给站
 
-最后巡检: `2026-08-02 23:00:02 (北京时间)`
+最后巡检: `2026-08-03 00:56:04 (北京时间)`
 
-### ✅ 今日捕获到 14 个活跃节点
+### ✅ 今日捕获到 12 个活跃节点
 
 | 序号 | 操作 | 链接 (若点击失效请复制下方代码) |
 | :--- | :--- | :--- |
@@ -18,5 +18,3 @@
 | 10 | [⚡ 点击导入](https://t.me/proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) | `tg://proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275` |
 | 11 | [⚡ 点击导入](https://t.me/proxy?server=skein.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) | `tg://proxy?server=skein.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275` |
 | 12 | [⚡ 点击导入](https://t.me/proxy?server=ad4.fluxvpnguard.ru&port=443&secret=ee0c002a9452cc7922f86bf4bfaa6b1a8d6164342e666c757876706e67756172642e7275) | `tg://proxy?server=ad4.fluxvpnguard.ru&port=443&secret=ee0c002a9452cc7922f86bf4bfaa6b1a8d6164342e666c757876706e67756172642e7275` |
-| 13 | [⚡ 点击导入](https://t.me/proxy?server=sisu.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) | `tg://proxy?server=sisu.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275` |
-| 14 | [⚡ 点击导入](https://t.me/proxy?server=ad1.fluxvpnguard.ru&port=443&secret=eef783c9e53b90b92a084bb3e50e028baa6164312e666c757876706e67756172642e7275) | `tg://proxy?server=ad1.fluxvpnguard.ru&port=443&secret=eef783c9e53b90b92a084bb3e50e028baa6164312e666c757876706e67756172642e7275` |
