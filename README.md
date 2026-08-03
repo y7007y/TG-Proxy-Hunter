@@ -1,8 +1,8 @@
 # ✈️ Telegram MTProto 自动补给站
 
-最后巡检: `2026-08-04 03:27:26 (北京时间)`
+最后巡检: `2026-08-04 04:59:45 (北京时间)`
 
-### ✅ 今日捕获到 10 个活跃节点
+### ✅ 今日捕获到 8 个活跃节点
 
 | 序号 | 操作 | 链接 (若点击失效请复制下方代码) |
 | :--- | :--- | :--- |
@@ -14,5 +14,3 @@
 | 6 | [⚡ 点击导入](https://t.me/proxy?server=lazeyka-5.getvelora.space&port=443&secret=ee3e0dff728bbad2c7b56124815fa1492d6f7a6f6e2e7275) | `tg://proxy?server=lazeyka-5.getvelora.space&port=443&secret=ee3e0dff728bbad2c7b56124815fa1492d6f7a6f6e2e7275` |
 | 7 | [⚡ 点击导入](https://t.me/proxy?server=aerie.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) | `tg://proxy?server=aerie.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275` |
 | 8 | [⚡ 点击导入](https://t.me/proxy?server=ad3.fluxvpnguard.ru&port=443&secret=ee1a23dbc042a9ad90a7ef4e5a4f04e1486164332e666c757876706e67756172642e7275) | `tg://proxy?server=ad3.fluxvpnguard.ru&port=443&secret=ee1a23dbc042a9ad90a7ef4e5a4f04e1486164332e666c757876706e67756172642e7275` |
-| 9 | [⚡ 点击导入](https://t.me/proxy?server=ad2.fluxvpnguard.ru&port=443&secret=ee4f43452511fc19da8a32ad7a3f0530e46164322e666c757876706e67756172642e7275) | `tg://proxy?server=ad2.fluxvpnguard.ru&port=443&secret=ee4f43452511fc19da8a32ad7a3f0530e46164322e666c757876706e67756172642e7275` |
-| 10 | [⚡ 点击导入](https://t.me/proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) | `tg://proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275` |
