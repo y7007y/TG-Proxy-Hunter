@@ -1,8 +1,8 @@
 # ✈️ Telegram MTProto 自动补给站
 
-最后巡检: `2026-08-09 02:34:37 (北京时间)`
+最后巡检: `2026-08-09 04:26:56 (北京时间)`
 
-### ✅ 今日捕获到 10 个活跃节点
+### ✅ 今日捕获到 9 个活跃节点
 
 | 序号 | 操作 | 链接 (若点击失效请复制下方代码) |
 | :--- | :--- | :--- |
@@ -15,4 +15,3 @@
 | 7 | [⚡ 点击导入](https://t.me/proxy?server=proxy.whiteproxy.baby&port=443&secret=dd7815244840ab293a65f83fc16bb0234e) | `tg://proxy?server=proxy.whiteproxy.baby&port=443&secret=dd7815244840ab293a65f83fc16bb0234e` |
 | 8 | [⚡ 点击导入](https://t.me/proxy?server=wisp.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) | `tg://proxy?server=wisp.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275` |
 | 9 | [⚡ 点击导入](https://t.me/proxy?server=adieu.shmelproxy.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) | `tg://proxy?server=adieu.shmelproxy.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275` |
-| 10 | [⚡ 点击导入](https://t.me/proxy?server=zilch.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) | `tg://proxy?server=zilch.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275` |
