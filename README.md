@@ -1,12 +1,13 @@
 # ✈️ Telegram MTProto 自动补给站
 
-最后巡检: `2026-08-16 02:26:08 (北京时间)`
+最后巡检: `2026-08-16 04:19:40 (北京时间)`
 
-### ✅ 今日捕获到 4 个活跃节点
+### ✅ 今日捕获到 5 个活跃节点
 
 | 序号 | 操作 | 链接 (若点击失效请复制下方代码) |
 | :--- | :--- | :--- |
-| 1 | [⚡ 点击导入](https://t.me/proxy?server=scott.startnetwork.shop&port=443&secret=dda700feed03536024f619edce4247c18a) | `tg://proxy?server=scott.startnetwork.shop&port=443&secret=dda700feed03536024f619edce4247c18a` |
-| 2 | [⚡ 点击导入](https://t.me/proxy?server=jeremy.helloworld.surf&port=443&secret=dd5a369539630cf83a6c2a9a9af2c1cd95) | `tg://proxy?server=jeremy.helloworld.surf&port=443&secret=dd5a369539630cf83a6c2a9a9af2c1cd95` |
-| 3 | [⚡ 点击导入](https://t.me/proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65) | `tg://proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65` |
-| 4 | [⚡ 点击导入](https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b) | `tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b` |
+| 1 | [⚡ 点击导入](https://t.me/proxy?server=ethereal11.arixo.shop&port=443&secret=7swu3Hfi5LRpqEMTgICO8f1ldGhlcmVhbDExLmFyaXhvLnNob3A) | `tg://proxy?server=ethereal11.arixo.shop&port=443&secret=7swu3Hfi5LRpqEMTgICO8f1ldGhlcmVhbDExLmFyaXhvLnNob3A` |
+| 2 | [⚡ 点击导入](https://t.me/proxy?server=scott.startnetwork.shop&port=443&secret=dda700feed03536024f619edce4247c18a) | `tg://proxy?server=scott.startnetwork.shop&port=443&secret=dda700feed03536024f619edce4247c18a` |
+| 3 | [⚡ 点击导入](https://t.me/proxy?server=jeremy.helloworld.surf&port=443&secret=dd5a369539630cf83a6c2a9a9af2c1cd95) | `tg://proxy?server=jeremy.helloworld.surf&port=443&secret=dd5a369539630cf83a6c2a9a9af2c1cd95` |
+| 4 | [⚡ 点击导入](https://t.me/proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65) | `tg://proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65` |
+| 5 | [⚡ 点击导入](https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b) | `tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b` |
