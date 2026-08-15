@@ -1,11 +1,12 @@
 # ✈️ Telegram MTProto 自动补给站
 
-最后巡检: `2026-08-15 16:25:51 (北京时间)`
+最后巡检: `2026-08-15 18:20:14 (北京时间)`
 
-### ✅ 今日捕获到 3 个活跃节点
+### ✅ 今日捕获到 4 个活跃节点
 
 | 序号 | 操作 | 链接 (若点击失效请复制下方代码) |
 | :--- | :--- | :--- |
-| 1 | [⚡ 点击导入](https://t.me/proxy?server=skein.chunkycorp.shop&port=8443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) | `tg://proxy?server=skein.chunkycorp.shop&port=8443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275` |
-| 2 | [⚡ 点击导入](https://t.me/proxy?server=whitelist.startnetwork.shop&port=443&secret=ddaa8133d8cd5e986848e2f6119ab126ff) | `tg://proxy?server=whitelist.startnetwork.shop&port=443&secret=ddaa8133d8cd5e986848e2f6119ab126ff` |
-| 3 | [⚡ 点击导入](https://t.me/proxy?server=s010.neo-trading.org&port=443&secret=ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275) | `tg://proxy?server=s010.neo-trading.org&port=443&secret=ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275` |
+| 1 | [⚡ 点击导入](https://t.me/proxy?server=s010.neo-trading.org&port=8443&secret=ee2c46ee89b4f2c79c1d8325d13091e580647a656e2e7275) | `tg://proxy?server=s010.neo-trading.org&port=8443&secret=ee2c46ee89b4f2c79c1d8325d13091e580647a656e2e7275` |
+| 2 | [⚡ 点击导入](https://t.me/proxy?server=s05.neo-trading.org&port=443&secret=eeecd508d816f611bb329487809f8dac88706574726f766963682e7275) | `tg://proxy?server=s05.neo-trading.org&port=443&secret=eeecd508d816f611bb329487809f8dac88706574726f766963682e7275` |
+| 3 | [⚡ 点击导入](https://t.me/proxy?server=s02.neo-trading.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275) | `tg://proxy?server=s02.neo-trading.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275` |
+| 4 | [⚡ 点击导入](https://t.me/proxy?server=skein.chunkycorp.shop&port=8443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) | `tg://proxy?server=skein.chunkycorp.shop&port=8443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275` |
