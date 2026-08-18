@@ -1,8 +1,8 @@
 # ✈️ Telegram MTProto 自动补给站
 
-最后巡检: `2026-08-18 16:33:59 (北京时间)`
+最后巡检: `2026-08-18 18:25:23 (北京时间)`
 
-### ✅ 今日捕获到 9 个活跃节点
+### ✅ 今日捕获到 8 个活跃节点
 
 | 序号 | 操作 | 链接 (若点击失效请复制下方代码) |
 | :--- | :--- | :--- |
@@ -14,4 +14,3 @@
 | 6 | [⚡ 点击导入](https://t.me/proxy?server=1edbb7.swift-cdn.net&port=443&secret=ee97e8cdb42a1ef4bb9c492b907e8cbc6b3165646262372e73776966742d63646e2e6e6574) | `tg://proxy?server=1edbb7.swift-cdn.net&port=443&secret=ee97e8cdb42a1ef4bb9c492b907e8cbc6b3165646262372e73776966742d63646e2e6e6574` |
 | 7 | [⚡ 点击导入](https://t.me/proxy?server=anti.rkn.lat&port=443&secret=ee5ad5e4caef72b74d57ffb9781b3e5f04636c6f756463646e2d6d392d362e63646e2e79616e6465782e6e6574) | `tg://proxy?server=anti.rkn.lat&port=443&secret=ee5ad5e4caef72b74d57ffb9781b3e5f04636c6f756463646e2d6d392d362e63646e2e79616e6465782e6e6574` |
 | 8 | [⚡ 点击导入](https://t.me/proxy?server=vegas.startnetwork.shop&port=443&secret=dddc4702229ba9f42fd30c7126e162e053) | `tg://proxy?server=vegas.startnetwork.shop&port=443&secret=dddc4702229ba9f42fd30c7126e162e053` |
-| 9 | [⚡ 点击导入](https://t.me/proxy?server=peak.helloworld.surf&port=443&secret=ddae7a078698a9289137599c9762db5d65) | `tg://proxy?server=peak.helloworld.surf&port=443&secret=ddae7a078698a9289137599c9762db5d65` |
