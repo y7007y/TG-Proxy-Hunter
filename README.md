@@ -1,9 +1,6 @@
 # ✈️ Telegram MTProto 自动补给站
 
-最后巡检: `2026-08-22 20:34:52 (北京时间)`
+最后巡检: `2026-08-22 22:19:00 (北京时间)`
 
-### ✅ 今日捕获到 1 个活跃节点
-
-| 序号 | 操作 | 链接 (若点击失效请复制下方代码) |
-| :--- | :--- | :--- |
-| 1 | [⚡ 点击导入](https://t.me/proxy?server=skein.chunkycorp.shop&port=8443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) | `tg://proxy?server=skein.chunkycorp.shop&port=8443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275` |
+### ❌ 状态：全线链路阻断
+当前 GitHub Actions 节点无法访问 Telegram 镜像，请尝试手动运行一次。
