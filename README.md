@@ -1,10 +1,10 @@
 # ✈️ Telegram MTProto 自动补给站
 
-最后巡检: `2026-09-01 17:10:33 (北京时间)`
+最后巡检: `2026-09-01 22:31:02 (北京时间)`
 
 ### ✅ 今日捕获到 2 个活跃节点
 
 | 序号 | 操作 | 链接 (若点击失效请复制下方代码) |
 | :--- | :--- | :--- |
-| 1 | [⚡ 点击导入](https://t.me/proxy?server=skein.chunkycorp.shop&port=8443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) | `tg://proxy?server=skein.chunkycorp.shop&port=8443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275` |
-| 2 | [⚡ 点击导入](https://t.me/proxy?server=fun.helloworld.surf&port=443&secret=dda5a68bce16dbd364f1a342731bd2e093) | `tg://proxy?server=fun.helloworld.surf&port=443&secret=dda5a68bce16dbd364f1a342731bd2e093` |
+| 1 | [⚡ 点击导入](https://t.me/proxy?server=wow.mtproto.baby&port=443&secret=dd0bd7534b498f8d1a15d51475698cad49) | `tg://proxy?server=wow.mtproto.baby&port=443&secret=dd0bd7534b498f8d1a15d51475698cad49` |
+| 2 | [⚡ 点击导入](https://t.me/proxy?server=poland.vechnostnet.study&port=443&secret=dd6d095fd662a1f8e38387ee7cb06d0860) | `tg://proxy?server=poland.vechnostnet.study&port=443&secret=dd6d095fd662a1f8e38387ee7cb06d0860` |
