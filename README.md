@@ -1,11 +1,12 @@
 # ✈️ Telegram MTProto 自动补给站
 
-最后巡检: `2026-09-06 11:01:26 (北京时间)`
+最后巡检: `2026-09-06 16:22:03 (北京时间)`
 
-### ✅ 今日捕获到 3 个活跃节点
+### ✅ 今日捕获到 4 个活跃节点
 
 | 序号 | 操作 | 链接 (若点击失效请复制下方代码) |
 | :--- | :--- | :--- |
-| 1 | [⚡ 点击导入](https://t.me/proxy?server=skein.chunkycorp.shop&port=8443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) | `tg://proxy?server=skein.chunkycorp.shop&port=8443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275` |
-| 2 | [⚡ 点击导入](https://t.me/proxy?server=anchor.lovely.lat&port=443&secret=eeaadd88aa9facd454936d0c42dc128e776d2e6265626f6f2e7275) | `tg://proxy?server=anchor.lovely.lat&port=443&secret=eeaadd88aa9facd454936d0c42dc128e776d2e6265626f6f2e7275` |
-| 3 | [⚡ 点击导入](https://t.me/proxy?server=god.startnetwork.shop&port=443&secret=ee1b12072197f503e7b598f0faaa982f767374726d2e79616e6465782e6e6574) | `tg://proxy?server=god.startnetwork.shop&port=443&secret=ee1b12072197f503e7b598f0faaa982f767374726d2e79616e6465782e6e6574` |
+| 1 | [⚡ 点击导入](https://t.me/proxy?server=adproxy.mtproto.baby&port=443&secret=ddb57ee5caf6ee163bd0a0d08f491a84db) | `tg://proxy?server=adproxy.mtproto.baby&port=443&secret=ddb57ee5caf6ee163bd0a0d08f491a84db` |
+| 2 | [⚡ 点击导入](https://t.me/proxy?server=skein.chunkycorp.shop&port=8443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275) | `tg://proxy?server=skein.chunkycorp.shop&port=8443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275` |
+| 3 | [⚡ 点击导入](https://t.me/proxy?server=anchor.lovely.lat&port=443&secret=eeaadd88aa9facd454936d0c42dc128e776d2e6265626f6f2e7275) | `tg://proxy?server=anchor.lovely.lat&port=443&secret=eeaadd88aa9facd454936d0c42dc128e776d2e6265626f6f2e7275` |
+| 4 | [⚡ 点击导入](https://t.me/proxy?server=god.startnetwork.shop&port=443&secret=ee1b12072197f503e7b598f0faaa982f767374726d2e79616e6465782e6e6574) | `tg://proxy?server=god.startnetwork.shop&port=443&secret=ee1b12072197f503e7b598f0faaa982f767374726d2e79616e6465782e6e6574` |
