@@ -1,6 +1,10 @@
 # ✈️ Telegram MTProto 自动补给站
 
-最后巡检: `2026-09-29 15:53:33 (北京时间)`
+最后巡检: `2026-09-29 22:37:20 (北京时间)`
 
-### ❌ 状态：全线链路阻断
-当前 GitHub Actions 节点无法访问 Telegram 镜像，请尝试手动运行一次。
+### ✅ 今日捕获到 2 个活跃节点
+
+| 序号 | 操作 | 链接 (若点击失效请复制下方代码) |
+| :--- | :--- | :--- |
+| 1 | [⚡ 点击导入](https://t.me/proxy?server=s05.neo-trading.org&port=443&secret=eef4f43f6c7b01f2f5f5644af6473a61d0686f66662e7275) | `tg://proxy?server=s05.neo-trading.org&port=443&secret=eef4f43f6c7b01f2f5f5644af6473a61d0686f66662e7275` |
+| 2 | [⚡ 点击导入](https://t.me/proxy?server=s04.neo-trading.org&port=443&secret=ee364a7bd5b928139fbc6b2b458e9fef9d686f66662e7275) | `tg://proxy?server=s04.neo-trading.org&port=443&secret=ee364a7bd5b928139fbc6b2b458e9fef9d686f66662e7275` |
