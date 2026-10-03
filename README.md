@@ -1,6 +1,9 @@
 # ✈️ Telegram MTProto 自动补给站
 
-最后巡检: `2026-10-04 01:46:01 (北京时间)`
+最后巡检: `2026-10-04 04:36:20 (北京时间)`
 
-### ❌ 状态：全线链路阻断
-当前 GitHub Actions 节点无法访问 Telegram 镜像，请尝试手动运行一次。
+### ✅ 今日捕获到 1 个活跃节点
+
+| 序号 | 操作 | 链接 (若点击失效请复制下方代码) |
+| :--- | :--- | :--- |
+| 1 | [⚡ 点击导入](https://t.me/proxy?server=relay.surfvpn.app&port=443&secret=eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070) | `tg://proxy?server=relay.surfvpn.app&port=443&secret=eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070` |
